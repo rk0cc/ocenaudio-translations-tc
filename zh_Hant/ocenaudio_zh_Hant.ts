@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation>采样率</translation>
+        <translation>取樣頻率</translation>
     </message>
     <message>
         <source>16000</source>
@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>Hz</source>
-        <translation></translation>
+        <translation>赫茲</translation>
     </message>
     <message>
         <source>48000</source>
@@ -57,7 +57,7 @@
     <name>MAC_TOOLBAR</name>
     <message>
         <source>Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">側邊欄</translation>
     </message>
     <message>
         <source>Transport</source>
@@ -65,11 +65,11 @@
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished">录音</translation>
+        <translation type="unfinished">錄音</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished">循环</translation>
+        <translation type="unfinished">重複</translation>
     </message>
     <message>
         <source>Pre Roll</source>
@@ -77,23 +77,23 @@
     </message>
     <message>
         <source>Navigator</source>
-        <translation type="unfinished">导航</translation>
+        <translation type="unfinished">引導</translation>
     </message>
     <message>
         <source>Recent Files</source>
-        <translation type="unfinished">最近文件</translation>
+        <translation type="unfinished">最近開啟文件</translation>
     </message>
     <message>
         <source>Sound Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">聲音設定</translation>
     </message>
     <message>
         <source>Mixer Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">混音設定</translation>
     </message>
     <message>
         <source>Audio Properties</source>
-        <translation type="unfinished">音频属性</translation>
+        <translation type="unfinished">音頻屬性</translation>
     </message>
     <message>
         <source>Volume</source>
@@ -101,15 +101,15 @@
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">顯示</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
-        <translation type="unfinished">显示侧边栏</translation>
+        <translation type="unfinished">顯示側邊欄</translation>
     </message>
     <message>
         <source>Hide Sidebar</source>
-        <translation type="unfinished">隐藏侧边栏</translation>
+        <translation type="unfinished">隱藏側邊欄</translation>
     </message>
     <message>
         <source>Stop Capture</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">暫停</translation>
     </message>
     <message>
         <source>Monitor On</source>
@@ -145,11 +145,11 @@
     </message>
     <message>
         <source>Fast Backward</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">倒後</translation>
     </message>
     <message>
         <source>Fast Forward</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">快進</translation>
     </message>
     <message>
         <source>Rewind</source>
@@ -165,11 +165,11 @@
     </message>
     <message>
         <source>Goto Previous Audio</source>
-        <translation type="unfinished">跳至上一音频</translation>
+        <translation type="unfinished">跳至上一音頻</translation>
     </message>
     <message>
         <source>Goto Next Audio</source>
-        <translation type="unfinished">跳至下一音频</translation>
+        <translation type="unfinished">跳至下一音頻</translation>
     </message>
     <message>
         <source>Pre Roll On</source>
