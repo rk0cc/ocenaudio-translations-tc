@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Work in progress-->
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_TW">
 <context>
@@ -50,14 +49,14 @@
     </message>
     <message>
         <source>This setting only changes the value of the sample rate. This operation does not resample the signal.</source>
-        <translation>此设置仅改变采样率数值。此操作不会对信号重新采样。</translation>
+        <translation>此設定只更改採樣率數值，並不會為信號重新採樣。</translation>
     </message>
 </context>
 <context>
     <name>MAC_TOOLBAR</name>
     <message>
         <source>Sidebar</source>
-        <translation type="unfinished">側邊欄</translation>
+        <translation>側邊欄</translation>
     </message>
     <message>
         <source>Transport</source>
@@ -65,11 +64,11 @@
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished">錄音</translation>
+        <translation>錄音</translation>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished">重複</translation>
+        <translation>重複</translation>
     </message>
     <message>
         <source>Pre Roll</source>
@@ -77,39 +76,39 @@
     </message>
     <message>
         <source>Navigator</source>
-        <translation type="unfinished">引導</translation>
+        <translation>引導</translation>
     </message>
     <message>
         <source>Recent Files</source>
-        <translation type="unfinished">最近開啟文件</translation>
+        <translation>最近開啟文件</translation>
     </message>
     <message>
         <source>Sound Preferences</source>
-        <translation type="unfinished">聲音設定</translation>
+        <translation>聲音設定</translation>
     </message>
     <message>
         <source>Mixer Options</source>
-        <translation type="unfinished">混音設定</translation>
+        <translation>混音設定</translation>
     </message>
     <message>
         <source>Audio Properties</source>
-        <translation type="unfinished">音頻屬性</translation>
+        <translation>音頻屬性</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished">音量</translation>
+        <translation>音量</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation type="unfinished">顯示</translation>
+        <translation>顯示</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
-        <translation type="unfinished">顯示側邊欄</translation>
+        <translation>顯示側邊欄</translation>
     </message>
     <message>
         <source>Hide Sidebar</source>
-        <translation type="unfinished">隱藏側邊欄</translation>
+        <translation>隱藏側邊欄</translation>
     </message>
     <message>
         <source>Stop Capture</source>
@@ -121,11 +120,11 @@
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished">播放</translation>
+        <translation>播放</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished">暫停</translation>
+        <translation>暫停</translation>
     </message>
     <message>
         <source>Monitor On</source>
@@ -141,15 +140,15 @@
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished">停止</translation>
+        <translation>停止</translation>
     </message>
     <message>
         <source>Fast Backward</source>
-        <translation type="unfinished">倒後</translation>
+        <translation>倒退</translation>
     </message>
     <message>
         <source>Fast Forward</source>
-        <translation type="unfinished">快進</translation>
+        <translation>快進</translation>
     </message>
     <message>
         <source>Rewind</source>
@@ -165,11 +164,11 @@
     </message>
     <message>
         <source>Goto Previous Audio</source>
-        <translation type="unfinished">跳至上一音頻</translation>
+        <translation>跳至上一音頻</translation>
     </message>
     <message>
         <source>Goto Next Audio</source>
-        <translation type="unfinished">跳至下一音頻</translation>
+        <translation>跳至下一音頻</translation>
     </message>
     <message>
         <source>Pre Roll On</source>
@@ -204,15 +203,15 @@
     </message>
     <message>
         <source>Adjust Selection</source>
-        <translation>调整所选</translation>
+        <translation>更改選項</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>&amp;视图</translation>
+        <translation>&amp;顯示</translation>
     </message>
     <message>
         <source>Display Time Format</source>
-        <translation>时间显示格式</translation>
+        <translation>時間格式</translation>
     </message>
     <message>
         <source>Vertical Scale Format</source>
@@ -224,19 +223,19 @@
     </message>
     <message>
         <source>Zoom</source>
-        <translation>放大</translation>
+        <translation>縮放</translation>
     </message>
     <message>
         <source>Extra Tracks</source>
-        <translation>扩展轨</translation>
+        <translation>擴展軌</translation>
     </message>
     <message>
         <source>Regions and Markers</source>
-        <translation>区块和标记</translation>
+        <translation>區塊和標記</translation>
     </message>
     <message>
         <source>Level Meter</source>
-        <translation>电平表</translation>
+        <translation>聲量計</translation>
     </message>
     <message>
         <source>Effec&amp;ts</source>
@@ -252,7 +251,7 @@
     </message>
     <message>
         <source>Delay</source>
-        <translation>延迟</translation>
+        <translation>延遲</translation>
     </message>
     <message>
         <source>Dynamics Processing</source>
@@ -284,23 +283,23 @@
     </message>
     <message>
         <source>Close All</source>
-        <translation>关闭所有</translation>
+        <translation>關閉所有</translation>
     </message>
     <message>
         <source>Save Selection...</source>
-        <translation>保存所选...</translation>
+        <translation>儲存所選...</translation>
     </message>
     <message>
         <source>Paste Special...</source>
-        <translation>特殊粘贴...</translation>
+        <translation>特殊貼上...</translation>
     </message>
     <message>
         <source>Adjust Sample Rate...</source>
-        <translation>调整采样率...</translation>
+        <translation>更改採樣率...</translation>
     </message>
     <message>
         <source>Convert Sample Type...</source>
-        <translation>采样类型转换...</translation>
+        <translation>採樣類型轉換...</translation>
     </message>
     <message>
         <source>Waveform &amp;&amp; Spectral View</source>
@@ -328,11 +327,11 @@
     </message>
     <message>
         <source>Decibels</source>
-        <translation>分贝</translation>
+        <translation>分貝</translation>
     </message>
     <message>
         <source>Hz</source>
-        <translation></translation>
+        <translation>赫茲</translation>
     </message>
     <message>
         <source>Mels</source>
@@ -340,7 +339,7 @@
     </message>
     <message>
         <source>Zoom Selection</source>
-        <translation>放大所选</translation>
+        <translation>放大選項</translation>
     </message>
     <message>
         <source>Zoom In</source>
@@ -364,7 +363,7 @@
     </message>
     <message>
         <source>Restore Vertical Zoom</source>
-        <translation>还原垂直缩放</translation>
+        <translation>還原垂直缩放</translation>
     </message>
     <message>
         <source>-</source>
@@ -372,31 +371,31 @@
     </message>
     <message>
         <source>Save Copy As...</source>
-        <translation>另存拷贝为...</translation>
+        <translation>儲存副本...</translation>
     </message>
     <message>
         <source>Revert to Saved</source>
-        <translation>撤销至上次保存</translation>
+        <translation>重設至最近儲存版本</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>上一个</translation>
+        <translation>上一個</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>关闭</translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <source>All Sound</source>
-        <translation>全部声音</translation>
+        <translation>所有聲音</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation>已选</translation>
+        <translation>已選</translation>
     </message>
     <message>
         <source>Record</source>
-        <translation>录音</translation>
+        <translation>錄音</translation>
     </message>
     <message>
         <source>Frames</source>
